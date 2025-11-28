@@ -1,3 +1,3 @@
 This is a market.
 It sells fruit.
-It has price and categoties in our intput and output.
+It has price and categoties in our input and output.
